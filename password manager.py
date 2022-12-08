@@ -11,6 +11,8 @@ def generate_password():
 passwords = {}
 
 # define the websites for which to generate passwords
+# to add more websites, just add in a comma after the closed quotes and put the website in quotes
+
 website_names = ["Facebook", "Twitter", "LinkedIn", "GitHub", "Roblox", "Discord", "Gmail/Google", "TikTok"]
 
 # generate a password for each website
